@@ -1,5 +1,9 @@
+# Important
+
+### The program runs in terminal
+
 # Installation
- Click the green "Code" button and copy the link.
+Click the green "Code" button and copy the link.
 
 In terminal execute this command:
 
@@ -23,3 +27,34 @@ For:
 * [Linux](https://www.tecmint.com/install-pip-in-linux/)
 * [MacOS](https://www.geeksforgeeks.org/how-to-install-pip-in-macos/) 
 
+# Usage
+
+To use the program you will need:
+* Server - it is for hosting purposes
+* Clients - clients will use the Chat to chat :-)
+
+On server machine type:
+
+```
+python server.py
+```
+
+On client machine type:
+
+```
+python client.py
+```
+
+For each of them program will guide you.
+
+If you still don't know something then write:
+- for server
+```
+help_server.py
+```
+
+- for client
+
+```
+help_client.py
+```
