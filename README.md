@@ -25,7 +25,7 @@ For that execute this commands:
 
 ```
 cd pychat
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 # Usage
@@ -37,13 +37,13 @@ To use the program you will need:
 On server machine type:
 
 ```
-python server.py
+python3 server.py
 ```
 
 On client machine type:
 
 ```
-python client.py
+python3 client.py
 ```
 
 For each of them program will guide you.
@@ -51,11 +51,11 @@ For each of them program will guide you.
 If you still don't know something then write:
 - for server
 ```
-help_server.py
+python3 help_server.py
 ```
 
 - for client
 
 ```
-help_client.py
+python3 help_client.py
 ```
