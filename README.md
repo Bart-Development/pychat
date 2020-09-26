@@ -47,15 +47,3 @@ python3 client.py
 ```
 
 For each of them program will guide you.
-
-If you still don't know something then write:
-- for server
-```
-python3 help_server.py
-```
-
-- for client
-
-```
-python3 help_client.py
-```
