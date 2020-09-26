@@ -3,8 +3,7 @@ import threading
 
 
 # Connection Data
-host = input("""What is the chat IP?
->>> """)
+host = "91.219.238.130"
 port = int(input("""What is the chat PORT?
 >>> """))
 
