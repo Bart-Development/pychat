@@ -107,7 +107,6 @@ def receive():
         thread.start()
 
 receive()
-
     while True:
         # Accept Connection
         client, address = server.accept()
